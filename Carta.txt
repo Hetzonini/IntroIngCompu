@@ -1,1 +1,1 @@
-
+Compilar es el proceso de convertir el código fuente de un programa, escrito en un lenguaje de programación como C o Java, en un código ejecutable por la computadora, generalmente en lenguaje máquina. Esto se hace a través de un programa llamado compilador, que traduce el código humano a un formato que la computadora puede entender y ejecutar.
